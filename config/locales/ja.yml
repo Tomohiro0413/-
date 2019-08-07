@@ -1,6 +1,10 @@
 ja:
  activerecord:
   attributes:
+    user:
+      name: ユーザ名
+      password: パスワード
+      password_confirmation: パスワード（確認）
     board:
       name: 名前
       title: タイトル
@@ -15,4 +19,5 @@ ja:
    previous: 前
    next: 次
    truncate: ...
+
 
